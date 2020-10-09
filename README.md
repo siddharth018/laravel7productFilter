@@ -31,10 +31,6 @@ git clone https://github.com/siddharth018/laravel7productFilter.git
 
     php artisan serve
 
-<h2>Step 6 : Run Cron Job</h2>  
-
-	php artisan schedule:run
-
 
 ## Youtube
 Join in youtube
