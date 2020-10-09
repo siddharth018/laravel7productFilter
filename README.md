@@ -1,8 +1,7 @@
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravel7productFilter/master/screenshot/1.png">
+<img src="https://raw.githubusercontent.com/siddharth018/laravel7productFilter/master/screenshot/product.gif">
 
 
-<img src="https://raw.githubusercontent.com/siddharth018/laravel7productFilter/master/screenshot/2.png">
 
 <h2>Step 1: download in your system.</h2>  
 
